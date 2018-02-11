@@ -5,8 +5,8 @@ Unifying all.
 <!------------------------------------------------------>
 
 <!-- HTML -->
-<h1> Hello Main Heading </h1>
-<p> Hello Paragraph </p>
+<h1> Hello Main Heading </h1>  <!-- HEADINGS-->
+<p> Hello Paragraph </p>        <!-- PARAGRAPHS-->
 <!-- This is how you comment in HTML -->
 
 <!------------------------------------------------------>
@@ -20,4 +20,12 @@ Unifying all.
 </style>
 <!-- Seperating style from info -->
 
+<!------------------------------------------------------>
 
+<!-- Creating a class-->
+
+.className{
+class property
+}
+
+<h1 class = "className"> ... </h1>
