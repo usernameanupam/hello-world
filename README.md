@@ -29,3 +29,18 @@ class property
 }
 
 <h1 class = "className"> ... </h1>
+
+<!------------------------------------------------------>
+
+<!-- Classes can be used multiple times -->
+
+<!------------------------------------------------------>
+
+<style>
+  p {
+      font-size : 16px;
+      font-family: Monospace;
+
+  {
+  </style>
+
