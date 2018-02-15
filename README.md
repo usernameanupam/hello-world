@@ -43,4 +43,6 @@ class property
 
   {
   </style>
+<!------------------------------------------------------>
 
+<img src = "bla bla bla" alt = " image description">   
