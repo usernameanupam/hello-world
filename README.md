@@ -46,3 +46,19 @@ class property
 <!------------------------------------------------------>
 
 <img src = "bla bla bla" alt = " image description">   
+
+<!------------------------------------------------------>
+
+# 1. having multiple classes:
+<img class="class1 class2">
+
+# 2. creating styles for borders on an image
+.thick-green-border{
+    border-color: green;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 10px;
+    # or border-radius: 50%;
+  }
+  
+ 
